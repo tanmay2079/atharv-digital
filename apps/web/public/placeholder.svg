@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#1e1e24"/>
+  <rect x="760" y="490" width="400" height="100" rx="12" fill="none" stroke="#3b82f6" stroke-width="2" opacity="0.3"/>
+  <text x="960" y="555" font-family="system-ui, sans-serif" font-size="28" fill="#3b82f6" text-anchor="middle" dominant-baseline="middle" opacity="0.4">Atharv Studio</text>
+</svg>
