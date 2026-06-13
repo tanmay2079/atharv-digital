@@ -1,6 +1,4 @@
 {
-  "installCommand": "npx --yes yarn@4.12.0 install",
-  "buildCommand": "npx --yes yarn@4.12.0 workspace web build",
   "outputDirectory": "apps/web/.next",
   "framework": "nextjs"
 }
